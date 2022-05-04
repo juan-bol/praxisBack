@@ -1,0 +1,9 @@
+/Users/jhoyosu/Documents/Travis-CI-Teaching/src/main/java/com/perficient/praxis/gildedrose/error/GlobalExceptionHandler.java
+/Users/jhoyosu/Documents/Travis-CI-Teaching/src/main/java/com/perficient/praxis/gildedrose/repository/ItemRepository.java
+/Users/jhoyosu/Documents/Travis-CI-Teaching/src/main/java/com/perficient/praxis/gildedrose/error/ApiError.java
+/Users/jhoyosu/Documents/Travis-CI-Teaching/src/main/java/com/perficient/praxis/gildedrose/config/WebConfig.java
+/Users/jhoyosu/Documents/Travis-CI-Teaching/src/main/java/com/perficient/praxis/gildedrose/business/ItemService.java
+/Users/jhoyosu/Documents/Travis-CI-Teaching/src/main/java/com/perficient/praxis/gildedrose/GildedroseApplication.java
+/Users/jhoyosu/Documents/Travis-CI-Teaching/src/main/java/com/perficient/praxis/gildedrose/error/ResourceNotFoundException.java
+/Users/jhoyosu/Documents/Travis-CI-Teaching/src/main/java/com/perficient/praxis/gildedrose/controller/ItemController.java
+/Users/jhoyosu/Documents/Travis-CI-Teaching/src/main/java/com/perficient/praxis/gildedrose/model/Item.java
